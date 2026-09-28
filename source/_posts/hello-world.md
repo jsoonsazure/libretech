@@ -1,38 +1,20 @@
 ---
-title: Hello World
+title: Welkom bij LibreTech
+date: 2026-09-28 12:00:00
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+**Open, soeverein, en technologie die werkt.**
 
-### Create a new post
+LibreTech helpt bedrijven, organisaties en zelfstandigen bij de keuze voor open source software, en bij de overstap ernaartoe.
 
-``` bash
-$ hexo new "My New Post"
-```
+## Wat ik doe
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+- **Advies:** welke open source oplossing past bij jouw situatie, zonder leverancier die je vastzet.
+- **Migratie:** stap voor stap weg van gesloten software, zonder dat je werking stilvalt.
+- **Technologie die werkt:** oplossingen die stabiel draaien en die je zelf kunt beheren.
 
-### Run server
+## Voor wie
 
-``` bash
-$ hexo server
-```
+Voor kmo's, organisaties en zelfstandigen die meer controle willen over hun software en hun data.
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+Benieuwd? Bekijk de pagina [Over LibreTech](/over/) of [neem contact op](/contact/).
