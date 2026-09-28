@@ -1,0 +1,1 @@
+nix-shell -p imagemagick --run "magick logo-web.png -resize 32x32 -background none -gravity center -extent 32x32 libretech-favicon-32.png"
