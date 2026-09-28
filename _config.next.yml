@@ -37,10 +37,10 @@ custom_file_path:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
 #scheme: Pisces
-#scheme: Gemini
+scheme: Gemini
 
 # Dark Mode
 darkmode: true
@@ -109,6 +109,11 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
+
+  ##added jso 28-09-2026
+  home: / || fa fa-home
+  about: /over/ || fa fa-user
+  contact: /contact/ || fa fa-envelope
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
